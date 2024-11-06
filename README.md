@@ -10,7 +10,7 @@ Use code with caution.
 # Accessing Array Elements
 To access a specific element, you use its index. Remember, indexing starts from 0.
 
-JavaScript
+# JavaScript
 let firstFruit = fruits[0]; // "apple"
 let lastFruit = fruits[fruits.length - 1]; // "orange"
 Use code with caution.
