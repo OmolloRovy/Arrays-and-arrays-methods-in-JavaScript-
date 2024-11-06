@@ -15,7 +15,7 @@ let firstFruit = fruits[0]; // "apple"
 let lastFruit = fruits[fruits.length - 1]; // "orange"
 Use code with caution.
 
-Common Array Methods
+# Common Array Methods
 JavaScript provides a variety of built-in methods to manipulate arrays:
 
 Adding Elements
