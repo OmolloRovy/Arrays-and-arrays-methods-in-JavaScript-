@@ -76,9 +76,9 @@ Reverses the order of elements in the array.
 fruits.reverse(); // ["pear", "orange", "kiwi"]
 Use code with caution.
 
-Iterating Over Arrays
-for loop:
-JavaScript
+# Iterating Over Arrays
+## for loop:
+### JavaScript
 for (let i = 0; i < fruits.length; i++) {
     console.log(fruits[i]);
 }
