@@ -23,7 +23,7 @@ JavaScript provides a variety of built-in methods to manipulate arrays:
 Adds one or more elements to the end of the array.
 ### JavaScript
 fruits.push("grape"); // ["apple", "banana", "orange", "grape"]
-Use code with caution.
+
 
 ## unshift()
 Adds one or more elements to the beginning of the array.
