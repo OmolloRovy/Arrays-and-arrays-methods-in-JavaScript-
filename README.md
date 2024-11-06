@@ -20,7 +20,7 @@ JavaScript provides a variety of built-in methods to manipulate arrays:
 
 ## Adding Elements
 push(): Adds one or more elements to the end of the array.
-JavaScript
+### JavaScript
 fruits.push("grape"); // ["apple", "banana", "orange", "grape"]
 Use code with caution.
 
