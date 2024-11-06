@@ -3,14 +3,14 @@
 # Understanding Arrays
 In JavaScript, an array is a collection of items, stored in a single variable. It's a fundamental data structure used to store and manipulate data efficiently. Arrays are declared using square brackets [] and elements are separated by commas.
 
-# JavaScript
+## JavaScript
 let fruits = ["apple", "banana", "orange"];
 Use code with caution.
 
 # Accessing Array Elements
 To access a specific element, you use its index. Remember, indexing starts from 0.
 
-# JavaScript
+## JavaScript
 let firstFruit = fruits[0]; // "apple"
 let lastFruit = fruits[fruits.length - 1]; // "orange"
 Use code with caution.
