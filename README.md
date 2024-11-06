@@ -70,9 +70,9 @@ Sorts the array elements.
 fruits.sort(); // ["kiwi", "orange", "pear"]
 Use code with caution.
 
-reverse()
+## reverse()
 Reverses the order of elements in the array.
-JavaScript
+### JavaScript
 fruits.reverse(); // ["pear", "orange", "kiwi"]
 Use code with caution.
 
