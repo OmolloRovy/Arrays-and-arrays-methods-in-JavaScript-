@@ -51,10 +51,10 @@ Removes or replaces elements at a specific index.
 fruits.splice(1, 1, "pear"); // ["kiwi", "pear", "orange"]
 Use code with caution.
 
-Searching and Sorting
-indexOf()
+# Searching and Sorting
+## indexOf()
 Returns the index of the first occurrence of an element.
-JavaScript
+### JavaScript
 let index = fruits.indexOf("orange"); // 2
 Use code with caution.
 
