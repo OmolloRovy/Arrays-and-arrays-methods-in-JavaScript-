@@ -29,7 +29,7 @@ Use code with caution.
 fruits.unshift("kiwi"); // ["kiwi", "apple", "banana", "orange", "grape"]
 Use code with caution.
 
-Removing Elements
+# Removing Elements
 pop(): Removes and returns the last element from the array.
 JavaScript
 let removedFruit = fruits.pop(); // "grape"
