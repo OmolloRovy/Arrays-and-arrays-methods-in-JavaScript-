@@ -35,8 +35,8 @@ Use code with caution.
 let removedFruit = fruits.pop(); // "grape"
 Use code with caution.
 
-shift(): Removes and returns the first element from the array.
-JavaScript
+## shift(): Removes and returns the first element from the array.
+### JavaScript
 let firstFruit = fruits.shift(); // "kiwi"
 Use code with caution.
 
