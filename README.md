@@ -58,17 +58,20 @@ Returns the index of the first occurrence of an element.
 let index = fruits.indexOf("orange"); // 2
 Use code with caution.
 
-# lastIndexOf(): Returns the index of the last occurrence of an element.
+# lastIndexOf()
+Returns the index of the last occurrence of an element.
 ## JavaScript
 let lastIndex = fruits.lastIndexOf("orange"); // 2
 Use code with caution.
 
-## sort(): Sorts the array elements.
+## sort()
+Sorts the array elements.
 ### JavaScript
 fruits.sort(); // ["kiwi", "orange", "pear"]
 Use code with caution.
 
-reverse(): Reverses the order of elements in the array.
+reverse()
+Reverses the order of elements in the array.
 JavaScript
 fruits.reverse(); // ["pear", "orange", "kiwi"]
 Use code with caution.
