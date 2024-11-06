@@ -40,9 +40,9 @@ Use code with caution.
 let firstFruit = fruits.shift(); // "kiwi"
 Use code with caution.
 
-Modifying Elements
-splice(): Removes or replaces elements at a specific index.
-JavaScript
+# Modifying Elements
+## splice(): Removes or replaces elements at a specific index.
+### JavaScript
 fruits.splice(1, 1, "pear"); // ["kiwi", "pear", "orange"]
 Use code with caution.
 
