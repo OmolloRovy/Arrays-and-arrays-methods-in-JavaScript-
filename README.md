@@ -18,7 +18,7 @@ Use code with caution.
 # Common Array Methods
 JavaScript provides a variety of built-in methods to manipulate arrays:
 
-Adding Elements
+## Adding Elements
 push(): Adds one or more elements to the end of the array.
 JavaScript
 fruits.push("grape"); // ["apple", "banana", "orange", "grape"]
