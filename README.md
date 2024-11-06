@@ -91,7 +91,7 @@ fruits.forEach(function(fruit) {
 });
 Use code with caution.
 
-Other Useful Methods
+# Other Useful Methods
 join(): Joins all elements of an array into a string.
 slice(): Extracts a section of an array.
 concat(): Merges two or more arrays.
