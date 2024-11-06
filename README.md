@@ -5,7 +5,7 @@ In JavaScript, an array is a collection of items, stored in a single variable. I
 
 ### JavaScript
 let fruits = ["apple", "banana", "orange"];
-Use code with caution.
+
 
 # Accessing Array Elements
 To access a specific element, you use its index. Remember, indexing starts from 0.
