@@ -18,36 +18,42 @@ Use code with caution.
 # Common Array Methods
 JavaScript provides a variety of built-in methods to manipulate arrays:
 
-## Adding Elements
-push(): Adds one or more elements to the end of the array.
+# Adding Elements
+## push()
+Adds one or more elements to the end of the array.
 ### JavaScript
 fruits.push("grape"); // ["apple", "banana", "orange", "grape"]
 Use code with caution.
 
-## unshift(): Adds one or more elements to the beginning of the array.
+## unshift()
+Adds one or more elements to the beginning of the array.
 ### JavaScript
 fruits.unshift("kiwi"); // ["kiwi", "apple", "banana", "orange", "grape"]
 Use code with caution.
 
 # Removing Elements
-## pop(): Removes and returns the last element from the array.
+## pop()
+Removes and returns the last element from the array.
 ### JavaScript
 let removedFruit = fruits.pop(); // "grape"
 Use code with caution.
 
-## shift(): Removes and returns the first element from the array.
+## shift()
+Removes and returns the first element from the array.
 ### JavaScript
 let firstFruit = fruits.shift(); // "kiwi"
 Use code with caution.
 
 # Modifying Elements
-## splice(): Removes or replaces elements at a specific index.
+## splice()
+Removes or replaces elements at a specific index.
 ### JavaScript
 fruits.splice(1, 1, "pear"); // ["kiwi", "pear", "orange"]
 Use code with caution.
 
 Searching and Sorting
-indexOf(): Returns the index of the first occurrence of an element.
+indexOf()
+Returns the index of the first occurrence of an element.
 JavaScript
 let index = fruits.indexOf("orange"); // 2
 Use code with caution.
