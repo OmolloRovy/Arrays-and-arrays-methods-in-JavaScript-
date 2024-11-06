@@ -1,6 +1,6 @@
 # Arrays and Array Methods in JavaScript
 
-Understanding Arrays
+# Understanding Arrays
 In JavaScript, an array is a collection of items, stored in a single variable. It's a fundamental data structure used to store and manipulate data efficiently. Arrays are declared using square brackets [] and elements are separated by commas.
 
 JavaScript
