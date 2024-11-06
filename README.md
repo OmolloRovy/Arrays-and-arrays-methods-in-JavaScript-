@@ -84,8 +84,8 @@ for (let i = 0; i < fruits.length; i++) {
 }
 Use code with caution.
 
-forEach():
-JavaScript
+## forEach()
+### JavaScript
 fruits.forEach(function(fruit) {
     console.log(fruit);
 });
