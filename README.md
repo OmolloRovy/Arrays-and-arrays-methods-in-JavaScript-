@@ -89,7 +89,7 @@ Use code with caution.
 fruits.forEach(function(fruit) {
     console.log(fruit);
 });
-Use code with caution.
+
 
 # Other Useful Methods
 join(): Joins all elements of an array into a string.
