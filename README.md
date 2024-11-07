@@ -77,7 +77,7 @@ fruits.reverse(); // ["pear", "orange", "kiwi"]
 ## for loop:
 ### JavaScript
 for (let i = 0; i < fruits.length; i++) {
-    console.log(fruits[i]);
+    console.log(fruits[i])
 }
 
 
