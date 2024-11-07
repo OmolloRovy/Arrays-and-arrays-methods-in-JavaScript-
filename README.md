@@ -94,4 +94,4 @@ fruits.forEach(function(fruit) {
 ## concat(): Merges two or more arrays.
 ## filter(): Creates a new array with elements that pass a test.
 map(): Creates a new array by transforming each element.
-reduce(): Reduces an array to a single value.
+## reduce(): Reduces an array to a single value.
