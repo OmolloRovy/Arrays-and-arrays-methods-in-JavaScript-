@@ -90,7 +90,7 @@ fruits.forEach(function(fruit) {
 
 # Other Useful Methods
 ## join(): Joins all elements of an array into a string.
-slice(): Extracts a section of an array.
+## slice(): Extracts a section of an array.
 concat(): Merges two or more arrays.
 filter(): Creates a new array with elements that pass a test.
 map(): Creates a new array by transforming each element.
